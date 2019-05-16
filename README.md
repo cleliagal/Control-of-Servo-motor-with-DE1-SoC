@@ -8,4 +8,4 @@ The goal is to control the servo-motor with the button available on the board by
 
 Here is the connection between the servo-motor and the processor:
 
-![Sreenshot](60266676_181512742773949_7743456753399889920_n.jpg)
+![Sreenshot](Capture.PNG)
